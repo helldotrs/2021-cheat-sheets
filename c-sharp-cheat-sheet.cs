@@ -5,6 +5,7 @@ About this document
   Copyright 2021.
 
   This document is created with the assumption that the end-user have a basic programming foundation.
+  Always open to feedback, unless the feedback is dumb.
 
   Optimized for Atom editor.
 
@@ -67,6 +68,9 @@ If / else / else if
     } else{
       //not a boolean!!
     }
+
+Tenary
+  var = (condition) ? "output for true" : "output for false";
 
 Switch
   /*cleaner than nested if Statements
@@ -163,17 +167,3 @@ Hello world
       }
     }
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-//"Why'd you name a company after your dick?" ~Steve Jobs
