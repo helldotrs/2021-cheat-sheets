@@ -1,0 +1,10 @@
+** —> Exponentiation —> 2 ** 5 is the same as 2^5 or 2 * 2 * 2 * 2 * 2
+// —> floor division —> divides and rounds down.
+
++= —> math operator *before* = —> 1 += 2 returns 3
+
+and, or, not
+
+is, is not
+
+in, not in
