@@ -1,9 +1,16 @@
+**Math operators:**
 ** —> Exponentiation —> 2 ** 5 is the same as 2^5 or 2 * 2 * 2 * 2 * 2
 // —> floor division —> divides and rounds down.
 
-+= —> math operator *before* = —> 1 += 2 returns 3
+M**ath operator *before* equal sign:**
++=, -=, >=, |= and so on
 
-and, or, not
+**Boolean operator priority:** 
+not > and > or
+# personally recommend using () for clarity 
+
+**Falsey:**
+False, None, 0, 0.0
 
 is, is not
 
